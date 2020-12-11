@@ -15,7 +15,7 @@ export const content = [
   },
   {
     img: tio,
-    name: "Hanafi Satriyo Utomo S.",
+    name: "Hanafi Satriyo U. Setiawan",
     role: "- Hipster -",
     quotes: "“Nggak usah putus harapan, masa depan masih bisa diperbaiki kok.”",
     social: {
