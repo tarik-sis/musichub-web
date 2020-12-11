@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/musichub-web/static/css/main.3a103724.chunk.css",
-    "main.js": "/musichub-web/static/js/main.cd49f461.chunk.js",
-    "main.js.map": "/musichub-web/static/js/main.cd49f461.chunk.js.map",
+    "main.js": "/musichub-web/static/js/main.478820da.chunk.js",
+    "main.js.map": "/musichub-web/static/js/main.478820da.chunk.js.map",
     "runtime-main.js": "/musichub-web/static/js/runtime-main.b6f50d75.js",
     "runtime-main.js.map": "/musichub-web/static/js/runtime-main.b6f50d75.js.map",
     "static/js/2.1ed6892e.chunk.js": "/musichub-web/static/js/2.1ed6892e.chunk.js",
@@ -46,6 +46,6 @@
     "static/js/runtime-main.b6f50d75.js",
     "static/js/2.1ed6892e.chunk.js",
     "static/css/main.3a103724.chunk.css",
-    "static/js/main.cd49f461.chunk.js"
+    "static/js/main.478820da.chunk.js"
   ]
 }
